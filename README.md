@@ -1,0 +1,2 @@
+# mytest
+laba 6
